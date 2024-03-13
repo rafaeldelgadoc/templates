@@ -3,7 +3,7 @@ date_added: 2023-12-13
 title: EARU DIN Circuit Breaker 1P 63A eWeLink version
 model: RDCBC-1P
 image: /assets/device_images/earu_RDCBC-1P_ewelink.webp
-template9: '{"NAME":"RDCBC-1P","GPIO":[32,0,0,0,0,0,0,0,288,224,0,0,0,0],"FLAG":0,"BASE":18}' 
+template9: '{"NAME":"RDCBC-1P","GPIO":[32,0,0,0,0,0,0,0,224,288,0,0,0,0],"FLAG":0,"BASE":18}' 
 link: https://www.aliexpress.com/item/1005004878966827.html
 link2: 
 mlink: 
